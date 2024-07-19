@@ -1,0 +1,1 @@
+<img src="{{url('/images/header.jpeg')}}" alt="" style="max-width: 50px">
